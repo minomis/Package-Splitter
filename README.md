@@ -1,2 +1,2 @@
-# Package-Splitter
+# Package Splitter
 Easily split a PKG into smaller parts!
